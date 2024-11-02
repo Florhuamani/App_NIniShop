@@ -8,18 +8,14 @@
    Aplicación de venta de productos por temporada con ideas y combinaciones recomendadas, y recordariospara planificar las compras a tiempo. Permitiendo de esta manera que los usuarios encuentren todo lo que necesiten en un solo lugar y justo a tiempo para cada época. 
 
 ## HERRAMIENTAS A UTILIZAR 
-   - Todoist
+   - Excalidraw
    - GitHub
    - VS Code
-   - Jira
+   - Trello (https://trello.com/invite/b/67259c2649767a5230f3b838/ATTI69dd5b44bf70bdb42c50c2acc567e37dE16F5E07/appsaison)
    - Figma
    - Notion
    - Google Forms
-   - EverNote
-   - Google Drive
    - Filmora
-   - 
-
 ## METODOLOGÍA
    Metodología LEAN.
 
