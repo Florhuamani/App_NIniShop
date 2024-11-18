@@ -3,8 +3,7 @@ import reflex as rx
 def navbar()->rx.Component:
     return rx.hstack(
         rx.hstack(
-            rx.icon(tag="tree"),
-            rx.heading("Saison",size="5",weight="bold"),
+            rx.heading("Saison",size="8",weight="bold"),
          
         ),
         rx.hstack(
@@ -17,6 +16,6 @@ def navbar()->rx.Component:
             align_items="center",
             padding="1em",
             width="100%",
-            bg=rx.color("gold",3)
+            bg=rx.color("blue",3)
         
     )
