@@ -15,7 +15,7 @@ app=rx.App(
         appearance="light",
         has_background=True,
         radius="large",
-        accent_color="teal",
+        accent_color="blue",
     )
 )
 app.add_page(index)

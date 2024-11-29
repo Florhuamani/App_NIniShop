@@ -21,7 +21,7 @@ def seccion()->rx.Component:
                         margin_right="2em")),
                     ),
            
-            rx.image(src="https://storage.googleapis.com/a1aa/image/gZMiFsAAIK4GLxeJv6WexQYvikbGZgbLbSf0nWpGNYhAcDonA.jpg",
+            rx.image(src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSUGTS_tLSWRTCOgIDYDzGpiIvvEj1Lv5ooPuKi1sQVFFe-Ecq1xR3wlqdoJg-fKBO5yE&usqp=CAU",
                      widht=200,
                      height=200,
                      align="center"),
@@ -48,5 +48,5 @@ def seccion()->rx.Component:
             align="center",
             text_align="start",
             height="500px",
-            background="#f5edeb"
+            background="#f0fafb"
     )
